@@ -8,5 +8,5 @@ This repository contains the implementation of a textual chatbot built using Ope
 - **Powered by OpenAI GPT**: Leverages OpenAI's cutting-edge language model for context-aware and intelligent responses.
 - **Customizable**: Adaptable for different use cases by modifying prompts or integrating with other systems.
 
-  # Link:
+# Link:
   https://openai-chatbot-textual.streamlit.app/
