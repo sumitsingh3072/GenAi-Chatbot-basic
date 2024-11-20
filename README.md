@@ -1,1 +1,1 @@
-# GenAi-Chatbot-basic
+# OpenAi-Chatbot-basic
